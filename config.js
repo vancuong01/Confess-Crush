@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tỏ Tình Người Yêu",
-    introTitle: 'Phạm Thanh Thảo',
+    introTitle: 'Nguyễn Hương Giang',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
